@@ -1,0 +1,13 @@
+\includegraphics[scale=0.18]{c_rec_face_wf1.jpg}
+\includegraphics[scale=0.18]{c_rec_face_wf2.jpg}
+\includegraphics[scale=0.18]{c_rec_face_wf3.jpg}
+\includegraphics[scale=0.18]{c_rec_face_wf4.jpg}
+\includegraphics[scale=0.18]{c_rec_face_wf5.jpg}
+\includegraphics[scale=0.18]{c_rec_face_wf6.jpg}
+\includegraphics[scale=0.18]{c_rec_face_wf7.jpg}
+\includegraphics[scale=0.18]{c_rec_face_wf8.jpg}
+\includegraphics[scale=0.18]{c_rec_face_wf9.jpg}
+\includegraphics[scale=0.18]{c_rec_face_wf10.jpg}
+\includegraphics[scale=0.18]{c_rec_face_wf11.jpg}
+\includegraphics[scale=0.18]{c_rec_face_wf12.jpg}
+\includegraphics[scale=0.18]{c_rec_face_wf13.jpg}
